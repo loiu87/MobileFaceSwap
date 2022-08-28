@@ -1,6 +1,11 @@
 ### [MobileFaceSwap: A Lightweight Framework for Video Face Swapping (AAAI 2022)](https://arxiv.org/abs/2201.03808)
 --- 
 
+<a href="https://colab.research.google.com/drive/1xpqi3DbBla8AyvTEtbKFL_w_NS7SbfiK"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+
+
+**Updated**
+: Now, you can use a colab runtime for MobileFaceSwap 😉
 
 **Dependencies**
 - paddlepaddle==2.1.2
